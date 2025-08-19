@@ -1,0 +1,6 @@
+2025-08-19T16:43:21.478Z [ERROR] [articlesController]: Modify Article Error: Cannot read properties of undefined (reading 'name')
+2025-08-19T16:48:07.637Z [ERROR] [articlesController]: Modify Article Error: Cannot read properties of undefined (reading 'name')
+2025-08-19T16:48:11.509Z [ERROR] [articlesController]: Modify Article Error: Cannot read properties of undefined (reading 'name')
+2025-08-19T16:53:30.065Z [ERROR] [articlesController]: Modify Article Error: Cannot read properties of undefined (reading 'name')
+2025-08-19T17:03:55.806Z [ERROR] [articlesController]: Modify Article Error: Cannot read properties of undefined (reading 'name')
+2025-08-19T17:08:33.824Z [ERROR] [articlesController]: Modify Article Error: Cannot read properties of undefined (reading 'name')
